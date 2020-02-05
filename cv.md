@@ -30,3 +30,6 @@
     5.5 Telecom Equipment Company
             **bold**Product Manager**bold**
             Responsible for DevOps and Integration within company products.
+6. Education:
+    *Good university (2007-2013)
+    Master in good things
