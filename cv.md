@@ -33,3 +33,6 @@
 6. Education:
     *Good university (2007-2013)
     Master in good things
+7. Foreign languages:
+    *English - C1;
+    *German - C1;
