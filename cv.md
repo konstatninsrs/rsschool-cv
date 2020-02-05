@@ -5,30 +5,30 @@
 * E-mail: konstantin.s@mein.gmx
 3. Software development manager with experience in telecom, web and mobile applications development looking forward to broaden his horizons.
 4. Skills:
-    4.1 Programming languages:
-        * Java - beginner;
-        * Javascript - beginner;
-        * bash;
-        * SQL;
-    4.2 Databases:
-        * MySQL;
-        * Google Firebase;
-        * PostreSQL;
+* Programming languages:
+  * Java - beginner;
+  * Javascript - beginner;
+  * bash;
+  * SQL;
+* Databases:
+  * MySQL;
+  * Google Firebase;
+  * PostreSQL;
 5. Work experience:
-   * Russian-German Trading Company
-            **Sales Manager**
+   * Russian-German Trading Company \
+            **Sales Manager** \
             Responsible for key account management as well as new sales
-   * Software Development Company
-            **Business Development Manager**
+   * Software Development Company \
+            **Business Development Manager** \
             Responsible for new sales and expansion in DACH region;
-   * Consulting Company
-            **IT Risk Management Consultant**
+   * Consulting Company \
+            **IT Risk Management Consultant** \
             Responsible for risk evaluation within clients' IT infrastructure;
-   * DIY Tools Shop Company
-            **Product Manager**
+   * DIY Tools Shop Company \
+            **Product Manager** \
             Responsible for web-portal development of the biggest Russian DIY retailer.
-   * Telecom Equipment Company
-            **Product Manager**
+   * Telecom Equipment Company \
+            **Product Manager** \
             Responsible for DevOps and Integration within company products.
 6. Education:
     * Good university (2007-2013)
