@@ -15,19 +15,19 @@
         * Google Firebase;
         * PostreSQL;
 5. Work experience:
-    5.1 Russian-German Trading Company
+   * Russian-German Trading Company
             **Sales Manager**
             Responsible for key account management as well as new sales
-    5.2 Software Development Company
+   * Software Development Company
             **Business Development Manager**
             Responsible for new sales and expansion in DACH region;
-    5.3 Consulting Company
+   * Consulting Company
             **IT Risk Management Consultant**
             Responsible for risk evaluation within clients' IT infrastructure;
-    5.4 DIY Tools Shop Company
+   * DIY Tools Shop Company
             **Product Manager**
             Responsible for web-portal development of the biggest Russian DIY retailer.
-    5.5 Telecom Equipment Company
+   * Telecom Equipment Company
             **Product Manager**
             Responsible for DevOps and Integration within company products.
 6. Education:
