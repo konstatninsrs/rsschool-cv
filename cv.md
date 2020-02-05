@@ -14,4 +14,11 @@
         *MySQL;
         *Google Firebase;
         *PostreSQL;
-
+5. Work experience:
+    5.1 Russian-German Trading Company
+        **bold**Sales Manager**bold**
+        Responsible for key account management as well as new sales
+    5.2 Software Development Company
+            **bold**Business Development Manager**bold**
+            Responsible for new sales and expansion in DACH region;
+d
