@@ -10,7 +10,7 @@ Software development manager with experience in telecom, web and mobile applicat
   * Java - beginner;
   * Javascript - beginner;
   * bash;
-  * SQL;
+  * SQL - beginner;
 * Databases:
   * MySQL;
   * Google Firebase;
